@@ -185,7 +185,8 @@ namespace bt {
             system_id == "msedge"  ||
             system_id == "chrome"  ||
             system_id == "vivaldi" ||
-            system_id == "brave";
+            system_id == "brave" ||
+            system_id == "thorium";
     }
 
     bool browser::is_firefox_browser(const std::string& system_id) {
