@@ -26,7 +26,8 @@ map<string, string> chromium_id_to_vdf {
     { "msedge", "Microsoft\\Edge\\User Data" },
     { "chrome", "Google\\Chrome\\User Data" },
     { "vivaldi", "Vivaldi\\User Data" },
-    { "brave", "BraveSoftware\\Brave-Browser\\User Data" }
+    { "brave", "BraveSoftware\\Brave-Browser\\User Data" },
+    { "thorium", "Thorium\\User Data" }
 };
 
 map<string, string> firefox_id_to_vdf {
